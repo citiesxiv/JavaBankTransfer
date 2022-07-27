@@ -1,0 +1,12 @@
+Account 1001 balance 300 unlocked
+Account 1002 balance 500 locked
+Account 1003 balance 1200 unlocked
+Account 1005 balance 1000 unlocked
+Transfer 200 from 1001 to 1002
+Transfer 300 from 1005 to 1001
+Transfer 200 from 1005 to 1003
+Account 1007 balance 200 locked
+Transfer 100 from 1003 to 1007
+Account 1008 balance 100 unlocked
+Transfer 100 from 1008 to 1002
+Transfer 200 from 1003 to 1005
